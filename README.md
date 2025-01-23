@@ -17,4 +17,5 @@
 
 1. Клон репозитория:
    ```bash
-   git clone git@github.com:Improsing/Fitness-Tracker.git
+   git clone https://github.com/Improsing/Fitness-Tracker.git
+
